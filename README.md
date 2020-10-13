@@ -4,8 +4,6 @@
 
 📜 Project for studies following "Next Level Week 3".
 
-[![NPM Version][npm-image]][npm-url]
-
 💡 The project registers orphanages and shows on the map so that people can schedule visits and play with the children.
 
 ![](social-preview.png)
