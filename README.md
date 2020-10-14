@@ -1,32 +1,45 @@
 ![](images/logo-happy.svg)
 
-# Happy
-
 📜 Project for studies following "Next Level Week 3".
 
 💡 The project registers orphanages and shows on the map so that people can schedule visits and play with the children.
 
 ![](social-preview.png)
 
-## Screenshots
+## 🖼️ Screenshots
 
-![](images/landing-page.png)
-![](images/map.png)
+<img src="images/landing-page.png" alt="landing" height="300em" />
+<img src="images/map.png" alt="landing" height="300em" />
 
 ## 💻 Get started
+
+### Backend
+
+```sh
+yarn install
+yarn typeorm migrations:run
+yarn dev
+```
+
+### Web
 
 ```sh
 yarn install
 yarn start
 ```
 
-## 🗃 Changelog
+## 📝 Changelog
+
+- 0.0.2
+
+  - backend
+  - Work in Progress
 
 - 0.0.1
   - landing page
   - Work in Progress
 
-## Credits
+## 🏆 Credits
 
 Diego Fernandes – [@dieegosf](https://twitter.com/dieegosf)
 
