@@ -9,7 +9,8 @@
 ## 🖼️ Screenshots
 
 <img src="images/landing-page.png" alt="landing" height="300em" />
-<img src="images/map.png" alt="landing" height="300em" />
+<img src="images/map.png" alt="map" height="300em" />
+<img src="images/nlw3.gif" alt="gif" height="300em" />
 
 ## 💻 Get started
 
