@@ -22,7 +22,7 @@ yarn typeorm migrations:run
 yarn dev
 ```
 
-### Web
+### Web/Mobile
 
 ```sh
 yarn install
