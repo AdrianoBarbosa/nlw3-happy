@@ -31,9 +31,14 @@ yarn start
 
 ## 📝 Changelog
 
+- 1.0.0
+
+  - mobile
+
 - 0.0.3
 
   - frontend
+  - backenf fixes
   - Work in Progress
 
 - 0.0.2
